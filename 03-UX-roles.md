@@ -1,4 +1,4 @@
-#  Core UX Knowledge & Roles (Professional Notes)
+#  Core UX Knowledge & Roles 
 
 ##  Introduction
 

@@ -2,6 +2,8 @@
 
 A **Sprint Brief** is a preparation document shared with everyone attending a Design Sprint. It explains the challenge, goals, people, resources, project context, and schedule so participants can prepare.
 
+ [View Design Sprint Brief Template (PDF)](./Design%20Sprint%20Brief%20%5BTemplate%5D%20.pdf)
+
 ---
 
 ## 1. Sprint Challenge 

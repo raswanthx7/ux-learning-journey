@@ -121,6 +121,18 @@ Instead, you select a manageable group that represents relevant types of users.
 
 If you interview only one narrow group, your research may give you a distorted understanding of the overall user population.
 
+For example:
+```
+Target Users
+├── Young users
+├── Older users
+├── Experienced users
+├── Less experienced users
+└── Users with different abilities
+```
+
+If you research only one group, you may miss problems experienced by the others.
+
 ### Important
 
 A perfectly representative sample is not always possible because of:
